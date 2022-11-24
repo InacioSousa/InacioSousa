@@ -1,11 +1,15 @@
-### Hi there 👋
+
 
 ## Oi, seja bem vindo, eu sou o Inácio, analista de TI e Dev em formação!
-<div align="center">
+
+<div align="center"><br>
   <a href="https://github.com/InacioSousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InacioSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InacioSousa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
